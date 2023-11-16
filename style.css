@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+}
+#form1{
+    margin-top: 100px;
+    background-color: aquamarine;
+}
+
+#firstname{
+    height: 30px;
+    border: red 3px solid;
+    border-radius: 20px;
+    background-color: aquamarine;
+    
+}
+
+#firstname:hover{
+    height: 40px;
+    border: rgb(41, 41, 255) 4px solid;
+    border-radius: 20px;
+}
+
+input{
+    margin-bottom: 20px;
+}
+
+#login-btn{
+
+    padding: 10px 20px 10px 20px;
+    border-radius: 30px;
+   
+}
+
+#login-btn:hover{
+    padding: 15px 25px 15px 25px;
+    border-radius: 40px;
+    color: aliceblue;
+    background-color: hotpink;
+}
